@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header nav ul li .active {
+    color: red;
+}
+header nav ul li .active.i {
+    color: red;
+}
+
+li a.active{
+    color:red;
+}
+
+
+
